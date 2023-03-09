@@ -14,20 +14,40 @@ public class Cliente {
     private String apellido;
     private String email;
     private String telefono;
-   
+
     public String getNombre() {
         return nombre;
     }
-    
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
     public String getApellido() {
         return apellido;
     }
-    
-    public void setNombre(String valor){
-        nombre = valor;
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getTelefono() {
+        return telefono;
+    }
+
+    public void setTelefono(String telefono) {
+        this.telefono = telefono;
     }
     
-    public void setApellido(String valor){
-        apellido = valor;
+    public String getNombreCompleto(){
+        return this.nombre + " " + this.apellido;
     }
 }
