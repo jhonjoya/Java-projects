@@ -4,6 +4,8 @@
 
 package com.mycompany.sistemagestion;
 
+import com.mycompany.sistemagestion.forms.Formulario;
+
 /**
  *
  * @author Jhon
