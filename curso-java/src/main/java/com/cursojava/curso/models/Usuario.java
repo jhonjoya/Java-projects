@@ -1,20 +1,17 @@
 package com.cursojava.curso.models;
 
+import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
 
 @Entity //Entidad que hace referencia a la base de datos
 @Table(name = "usuarios")
 @ToString @EqualsAndHashCode
 public class Usuario {
       @Id
+      @GeneratedValue(strategy = GenerationType.IDENTITY)
       @Getter @Setter @Column(name = "id")
       private Long id;
       @Getter @Setter @Column(name = "nombre")
