@@ -1,4 +1,6 @@
-C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\cursojava\CursoJavaApplication.java
-C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\cursojava\models\Usuario.java
-C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\cursojava\controllers\UsuarioController.java
-C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\cursojava\ServletInitializer.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\dao\UsuarioDao.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\models\Usuario.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\dao\UsuarioDaoImp.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\ServletInitializer.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\controllers\UsuarioController.java
+C:\Users\Jhon\Source\Java-projects\curso-java\src\main\java\com\cursojava\curso\CursoJavaApplication.java

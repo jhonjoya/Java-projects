@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.cursojava.curso-java' is invalid and this project uses 'com.cursojava.cursojava' instead.
+* The original package name 'com.cursojava.curso-java' is invalid and this project uses 'com.cursojava.curso' instead.
 
 # Getting Started
 

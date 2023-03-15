@@ -1,10 +1,9 @@
-package com.cursojava.cursojava.dao;
+package com.cursojava.curso.dao;
 
 import java.util.List;
-import com.cursojava.cursojava.models.Usuario;
+import com.cursojava.curso.models.Usuario;
 
 public interface UsuarioDao {
-
       List<Usuario> getUsuarios();
 
 }
